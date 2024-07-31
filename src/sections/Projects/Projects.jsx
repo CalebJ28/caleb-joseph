@@ -1,5 +1,5 @@
 import styles from './ProjectsStyles.module.css'
-import robo from '../../assets/robo.png'
+import robo from '../../assets/viberr.png'
 import freshBurger from '../../assets/fresh-burger.png'
 import ProjectCard from '../../common/ProjectCard'
 
