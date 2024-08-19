@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Joseph
         </h1>
-        <h2>Aspiring Computer Engineer</h2>{" "}
+        <h2>Computer Engineer</h2>{" "}
         <span>
           <a href="https://www.linkedin.com/in/calebj28/" target="_blank">
             <img src={linkedinIcon} alt="LinkedIn Icon"></img>
