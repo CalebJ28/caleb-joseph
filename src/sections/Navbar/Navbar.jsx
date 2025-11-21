@@ -20,13 +20,13 @@ const Navbar = () => {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex-shrink-0">
                         <a href="#" className="text-2xl font-bold text-emerald-600 dark:text-emerald-400">
-                            CJ
+                            Caleb Joseph
                         </a>
                     </div>
 
                     {/* Desktop Menu */}
                     <div className="hidden md:block">
-                        <div className="ml-10 flex items-baseline space-x-8">
+                        <div className="ml-10 flex items-center space-x-8">
                             {navLinks.map((link) => (
                                 <a
                                     key={link.name}
